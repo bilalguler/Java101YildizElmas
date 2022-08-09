@@ -6,7 +6,8 @@
 yapabiliyor.
 
 * Çıktım şu şekilde görünecek:
-    *![Output](img/output.PNG)
+    
+    ![Output](img/output.PNG)
 
 
 ## *Kodlarım*
